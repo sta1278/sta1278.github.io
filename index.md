@@ -5,7 +5,8 @@
 This association lets you program(especially Python) and do spy things.
 <b>But we're just kids, why so serious?</b>
 These are some Python codes:
-'''python
+
+```python
 class Fraction:
     def __init__(self, numerator, denominator):
         if type(numerator) == str:
@@ -150,5 +151,5 @@ class Fraction:
         newselfNumerator, newAnotherFractionNumerator = self.numden(f1, False)
 
         return newselfNumerator >= newAnotherFractionNumerator
- '''
+```
   See?
