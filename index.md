@@ -154,4 +154,4 @@ class Fraction:
 ```
 See?
 
-[Download these codes.](https://sta.github.io/fraction.py)
+[Download these codes.](https://sta1278.github.io/codes/fraction.py)
