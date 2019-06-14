@@ -152,4 +152,6 @@ class Fraction:
 
         return newselfNumerator >= newAnotherFractionNumerator
 ```
-  See?
+See?
+
+[Download these codes.](https://sta.github.io/codes/fraction.py)
